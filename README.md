@@ -72,7 +72,7 @@
 
 ## Authentication, Security, Auth2.0 w/ Google
 
-![secrets](https://github.com/Crshafer12/Images/blob/master/Auth-Secrets/landing%20page.PNG)
+![secrets](https://github.com/Crshafer12/Images/blob/master/Auth-Secrets/home%20page.PNG)
 
 ## Blog Website (EJS, Node.js, Express.js, Lodash)
 
