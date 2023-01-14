@@ -78,16 +78,6 @@
 
 ![blog](https://github.com/Crshafer12/Images/blob/master/Blog/home.PNG)
 
-## To-Do List (EJS, Node.js, Express.js)
-
-![placeholder](https://user-images.githubusercontent.com/47203800/179565725-09985b5b-f4ff-4eaf-b8c3-caefa7f442dd.PNG)
-
-## Newsletter Signup Page (Node.js, Express.js, Mailchimp API, & Heroku)
-
-|                                                Newsletter Signup Page                                                 |                                                 MailChimp Persistence                                                 |
-| :-------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: |
-| ![placeholder](https://user-images.githubusercontent.com/47203800/179565725-09985b5b-f4ff-4eaf-b8c3-caefa7f442dd.PNG) | ![placeholder](https://user-images.githubusercontent.com/47203800/179565725-09985b5b-f4ff-4eaf-b8c3-caefa7f442dd.PNG) |
-
 ## Simon Game (jQuery & JavaScript)
 
 ![Simon](https://user-images.githubusercontent.com/47203800/179646760-64e93f17-c3c9-4003-935f-355d1699d299.PNG)
