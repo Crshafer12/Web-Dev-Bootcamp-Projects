@@ -60,9 +60,8 @@
 
 ### Keeper App w/ React Components, Hooks, States, Destrucuring, Spread Operator, Material-UI
 
-|                                            Keeper                                             |                                                  Keeper Note Pop Up                                                   |
-| :-------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: |
-| ![keeperApp](https://github.com/Crshafer12/Images/blob/master/gradebook/GradebookPreview.PNG) | ![placeholder](https://user-images.githubusercontent.com/47203800/179565725-09985b5b-f4ff-4eaf-b8c3-caefa7f442dd.PNG) |
+| Keeper |  
+| ![keeperApp](https://github.com/Crshafer12/Images/blob/master/keeper/KeeperPreviewPopup.PNG)
 
 ### To-Do List w/ React Components, Hooks, States, Destructuring, Spread Operator
 
