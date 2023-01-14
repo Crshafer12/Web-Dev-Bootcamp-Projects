@@ -5,7 +5,7 @@ const _ = require("lodash");
 require("dotenv").config();
 
 const app = express();
-// commet
+
 mongoose.connect(process.env.SECRET, { useNewUrlParser: true, useUnifiedTopology: true, useFindAndModify: false });
 
 // 1. Schema
