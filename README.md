@@ -68,7 +68,7 @@
 
 ### Emojipedia w/ React Components & Props
 
-![placeholder](https://user-images.githubusercontent.com/47203800/179565725-09985b5b-f4ff-4eaf-b8c3-caefa7f442dd.PNG)
+![eojipedia](hhttps://github.com/Crshafer12/Images/blob/master/emojipedia/main.PNG)
 
 ## Authentication, Security, Auth2.0 w/ Google
 
