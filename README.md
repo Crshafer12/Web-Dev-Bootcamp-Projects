@@ -76,7 +76,7 @@
 
 ## Blog Website (EJS, Node.js, Express.js, Lodash)
 
-![placeholder](https://user-images.githubusercontent.com/47203800/179565725-09985b5b-f4ff-4eaf-b8c3-caefa7f442dd.PNG)
+![blog](https://github.com/Crshafer12/Images/blob/master/Blog/home.PNG)
 
 ## To-Do List (EJS, Node.js, Express.js)
 
