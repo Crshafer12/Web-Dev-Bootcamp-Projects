@@ -5,7 +5,7 @@
 - HTML
 - CSS
 - JavaScript
-- Bootstrap 4
+- Bootstrap 5
 - DOM & DOM Manipulation
 - jQuery
 - Node.js
@@ -31,7 +31,6 @@
 - API
   - JSON
   - Authentication
-  - Mailchimp API
   - Created REST API from scratch
 - Heroku
 - EJS
